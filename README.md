@@ -1,12 +1,23 @@
 # EGM722: Project Assignment
 
-# project
-Repository for programming project egm722
+# Introduction
+This project focuses on analysing crimes reported within Northern Ireland during February 2023, at both ward level and county level. 
 
 # Set Up 
-Before running the code, git and conda will need to be downloaded onto you computer. The instructions for installing git can be found here: and for Anaconda here: 
+Before running the code, git and conda will need to be downloaded onto you computer. The instructions for installing git can be found here: https://git-scm.com/downloads and for Anaconda here: https://docs.anaconda.com/free/anaconda/getting-started/install/ 
 
-Now that git and conda have been installed, the repository (URL) needs to now be cloned to your computer. You can do this by opening GitHub or Git Bash. The instructions for opening via GitHub are shown below.
+Now that git and conda have been installed, the repository (https://github.com/kirstymcl1/project) needs to now be cloned to your computer. You can do this by opening GitHub Desktop or Git Bash.
+
+Clone Repository via GitHub Desktop:
+   - Open GitHub Desktop and click 'Clone a repository from the internet'
+   - Click URL and paste the URL into the designated box 
+   - The local path is your destination folder where you will be cloning the repository to
+   - Click clone and the files should now be available in your detination folder on your computer 
+   
+Clone Repository via GitBash:
+   - Open GitBash and navigate to where your destination folder will be 
+   - Enter the command line: git clone https://github.com/kirstymcl1/project 
+   - Messages for downloading the files should appear and the repository should now be cloned to your computer.
 
 After the repository has been cloned, a conda environment should now be created to work through the code. This will be done by using the environment.yml file provided in this repository. To do this, open Anaconda Navigator and go to the Environments tab. From this tab, click import and search for the environment.yml file in the folder where you cloned the repository to. Give the environment a meaningful name, example: 'crimeproject'. This may take some time. 
 
