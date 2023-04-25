@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data_files/NI_crime_feb23.shp.GONDOR.14876.12812.sr.lock
+data_files/NI_crime_feb23.shp.GONDOR.16144.12812.sr.lock
+data_files/NI_crime_feb23.shp.GONDOR.16948.12812.sr.lock
+data_files/NI_crime_feb23.shp.GONDOR.4480.12812.sr.lock
