@@ -8,7 +8,6 @@ dependencies:
   - pandas
   - cartopy
   - notebook
-  - folium
   - matplotlib
-  - numpy
   - shapely
+  - seaborn
