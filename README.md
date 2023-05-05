@@ -1,7 +1,7 @@
 # EGM722: Project Assignment
 
 # Introduction
-This project focuses on analysing crimes reported within Northern Ireland during February 2023, at both ward level and county level. 
+This project focuses on analysing crimes reported within Northern Ireland during February 2023 at ward level. 
 
 # Set Up 
 Before running the code, git and conda will need to be downloaded onto you computer. The instructions for installing git can be found here: https://git-scm.com/downloads and for Anaconda here: https://docs.anaconda.com/free/anaconda/getting-started/install/ 
