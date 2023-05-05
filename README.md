@@ -3,6 +3,12 @@
 # Introduction
 This project focuses on analysing crimes reported within Northern Ireland during February 2023 at ward level. 
 
+The data used for the script was retrieved from:
+ - https://www.data.gov.uk/dataset/a7802ada-9d95-4f37-bc40-1063b5bc4506/osni-open-data-largescale-boundaries-wards-2012
+ - https://data.police.uk/data/ 
+
+The data set created for this script ('NI_Wards_Crimes.shp') was created using Geoprocessing tools on ArcGIS Pro.
+
 # Set Up 
 Before running the code, git and conda will need to be downloaded onto you computer. The instructions for installing git can be found here: https://git-scm.com/downloads and for Anaconda here: https://docs.anaconda.com/free/anaconda/getting-started/install/ 
 
@@ -22,3 +28,7 @@ Clone Repository via GitBash:
 After the repository has been cloned, a conda environment should now be created to work through the code. This will be done by using the environment.yml file provided in this repository. To do this, open Anaconda Navigator and go to the Environments tab. From this tab, click import and search for the environment.yml file in the folder where you cloned the repository to. Give the environment a meaningful name, example: 'crimeproject'. This may take some time. 
 
 Once this has been completed, go back to the Home tab on Anaconda Navigator and ensure that your new environment is selected instead of the deafult 'base'. You can now open jupyter notebook from this channel or open the command prompt from this environment and launch (jupyter-notebook.exe). Either route will open jupyter notebook in a webpage, which you can then navigate to your repository folder and open the NI_Crime_Project notebook to work through.
+
+# Troubleshooting 
+
+This section will identify potential issues you may have when either installing programs, cloning the repository or with the script. 
