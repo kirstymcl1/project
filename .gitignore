@@ -132,3 +132,14 @@ data_files/NI_crime_feb23.shp.GONDOR.16144.12812.sr.lock
 data_files/NI_crime_feb23.shp.GONDOR.16948.12812.sr.lock
 data_files/NI_crime_feb23.shp.GONDOR.4480.12812.sr.lock
 *.lock
+data_files/NIcrimefeb.cpg
+data_files/NIcrimefeb.dbf
+data_files/NIcrimefeb.prj
+data_files/NIcrimefeb.shp
+data_files/NIcrimefeb.shx
+data_files/wards_crimes.cpg
+data_files/wards_crimes.dbf
+data_files/wards_crimes.prj
+data_files/wards_crimes.shp
+data_files/wards_crimes.shx
+NI_Crime_Project.ipynb
