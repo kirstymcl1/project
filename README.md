@@ -3,6 +3,12 @@
 # Introduction
 This project focuses on analysing crimes reported within Northern Ireland during February 2023 at ward level. 
 
+The data used for the script was retrieved from:
+ - https://www.data.gov.uk/dataset/a7802ada-9d95-4f37-bc40-1063b5bc4506/osni-open-data-largescale-boundaries-wards-2012
+ - https://data.police.uk/data/ 
+
+The data set created for this script ('NI_Wards_Crimes.shp') was created using Geoprocessing tools on ArcGIS Pro.
+
 # Set Up 
 Before running the code, git and conda will need to be downloaded onto you computer. The instructions for installing git can be found here: https://git-scm.com/downloads and for Anaconda here: https://docs.anaconda.com/free/anaconda/getting-started/install/ 
 
